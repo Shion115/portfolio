@@ -1,0 +1,110 @@
+                              TASFIA JANNAT TASFI
+                 Human–Computer Interaction | Human-Centered AI | NLP
+                             Rajshahi, Bangladesh | tj2003115@gmail.com
+                      linkedin.com/in/tasfia-jannat-tasfi | github.com/Shion115
+
+Research Profile
+
+I am a Computer Science and Engineering graduate interested in understanding how people interact with
+AI-enabled systems and how interface design influences their decisions. My undergraduate thesis combines
+web-based interface design, NLP, and a controlled user study to examine how different explanations affect
+people’s understanding and use of AI outputs. I enjoy building interactive research prototypes and evaluating
+them with users, and I hope to continue studying how AI system design shapes people’s choices, understanding,
+and sense of control.
+Research Interests: Human-Centered AI; Responsible AI; Human–AI Interaction; User Agency; Social
+Computing; Explainability; Appropriate Reliance; NLP
+Education
+
+B.Sc. in Computer Science and Engineering                                                   11 Aug. 2026
+Rajshahi University of Engineering & Technology (RUET)                                 Rajshahi, Bangladesh
+CGPA: 3.77/4.00 | Program: BAETE-accredited CSE program
+Research Experience
+
+Undergraduate Thesis: Designing and Evaluating Explanation Interfaces for AI-Assisted
+Medical Misinformation Detection
+Human–Computer Interaction | NLP | Explainable AI | Human–AI Decision Making
+• Designed and implemented four web-based explanation interfaces that communicate AI assessments,
+  linguistic indicators, calibrated probabilities, uncertainty, evidence, and sources; built the end-to-end
+  research prototype with Next.js and FastAPI.
+• Conducted a controlled HCI study with 60 participants and 1,200 judgment trials. The most
+  informative interface improved judgment accuracy from 73.7% to 90.0% and reduced over-reliance on
+  incorrect AI advice from 77.8% to 37.8%.
+• Developed the NLP backend using RoBERTa, calibrated uncertainty, and conformal selective
+  prediction on a multi-source corpus of 17,611 samples. The selective system automatically handled
+  91.56% of cases with macro-F1 0.9806, while referring uncertain cases for human verification.
+Publications
+
+Jabunnesa Jahan Sara, Shahriar Rizvi, and Tasfia Jannat Tasfi. Beyond Artifacts: Semantic
+Deepfake Detection and Digital Provenance Tracking with Multimodal Large Language Models. 2025 28th
+International Conference on Computer and Information Technology (ICCIT), 2025.
+DOI: https://doi.org/10.1109/ICCIT68739.2025.11490141
+Developed a multimodal pipeline for semantic deepfake analysis and web-based provenance tracing, moving
+beyond purely visual artifact detection.
+Nahid Montasir Rifat, Tasfia Jannat Tasfi, Foyez Ahmed Dewan, and Barshon Sen. Evaluating
+Creative Reasoning and Lateral Thinking in Instruction-Tuned LLMs for Bengali. 2026 IEEE 2nd International
+Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN), 2026.
+DOI: https://doi.org/10.1109/QPAIN69676.2026.11546604
+Built a parallel Bangla–English benchmark for instruction-tuned LLMs and analyzed cross-lingual failure
+modes such as mistranslation, cultural mismatch, and logical inconsistency.
+
+
+
+
+                                                 Page 1 of 2
+Selected Achievements
+
+• 1st Place, UIHP 5th Cohort (WayMakers) — recognized for startup innovation, market validation,
+  and MVP development.
+• Champion, Huawei Seeds for the Future Tech-Business Competition, 2024.
+• Champion, Hult Prize at RUET — Startup Innovation, 2023.
+• Government General Scholarship — awarded for all four years of undergraduate study.
+• Finalist, International Youth Math Challenge — Top 20% globally, 2024.
+• 70% Merit Scholarship, ISCEA PTAK Prize, 2024.
+• Government Talent Pool Scholarship — awarded for academic excellence in high school.
+Selected Systems & Design Projects
+
+EarlyMind — AI-Assisted Child Development Interface. Built an interactive web interface for child-
+development assessment activities, with adaptive dashboards and progress feedback informed by cognitive-load
+considerations.
+Project: github.com/Shion115/EarlyMind
+BongoSeek — LLM-Powered Conversational Search. Built a conversational search system with
+context-aware query handling and dialogue memory for coherent multi-turn interaction.
+Project: github.com/Shion115/Bongo_Seek
+Professional & Leadership Experience
+
+Co-Founder, Delibro                                                                  Nov. 2024 – Present
+Social Computing Platform for Community-Based Delivery
+• Co-founded a community-oriented delivery platform centered on trust, reciprocity, safety, and human
+   connection; contributed to interface design, prototyping, product development, and user-oriented validation.
+   The project received support through the World Bank-supported University Innovation Hub.
+Official Ambassador                                                                   Jun. 2025 – Present
+International Computer Science Competition
+• Organized programming outreach, mentorship activities, and student community initiatives. Profile:
+   icscompetition.org/en/ttasfi
+Industrial Trainee                                                                                Mar. 2025
+BRAC IT
+• Worked on front-end interface design and web-development workflows.
+App Developer                                                                      Jun. 2022 – Jan. 2023
+bdapps
+• Developed and deployed PHP-based applications involving interface design, backend integration, and
+   deployment.
+Research & Technical Skills
+
+HCI & Research            Human–AI Interaction, User Studies, Interface Evaluation, UX Design, Prototyping
+Methods & Analysis        Controlled Experiments, Experimental Evaluation, Uncertainty Calibration, Con-
+                          formal Prediction, Classification Metrics
+Web & Prototyping         Next.js, JavaScript, HTML/CSS, FastAPI, Flask, Figma
+AI / NLP                  Python, Transformers, RoBERTa, Hugging Face Transformers, scikit-learn
+Programming    &          Python, C++, JavaScript, PHP, Git, Jupyter Notebook, Google Colab, pandas
+Tools
+References
+
+Barshon Sen                                              Md. Azmain Yakin Srizon
+Assistant Professor, Department of CSE, RUET             Assistant Professor, Department of CSE, RUET
+Undergraduate Thesis Supervisor                          Academic Advisor
+barshon.sen@cse.ruet.ac.bd                               azmainsrizon@cse.ruet.ac.bd
+
+
+
+                                                  Page 2 of 2
+
